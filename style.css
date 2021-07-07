@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    padding: 30px 20px;
+}
+p {
+    font-size: 20px;
+    padding: 20px 30px;
+    text-align: center;
+}
+#password-show {
+    font-weight: bold;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 15px 25px;
+}
